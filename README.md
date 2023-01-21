@@ -6,7 +6,7 @@ This repo will not hold your hand through the process, it just makes the process
 
 ## **Tutorial**
 - ### **Installation**
-    - Ensure you have [Python](https://www.python.org/downloads) and [ffmpeg](https://ffmpeg.org/download.html) installed
+    - Ensure you have [Python](https://www.python.org/downloads) and [ffmpeg](https://ffmpeg.org/download.html) installed (ffmpeg as an environment variable, see this tutorial on how to create a path environment)
     - Install opencv-python:
         ```
         pip install opencv-python
