@@ -2,8 +2,6 @@
 
 ###### My dog, Chloe, in 3d.
 
-<br>
-
 # ez-instant-ngp
 A pre-configured [instant-ngp](https://github.com/NVlabs/instant-ngp) workspace that includes helpful scripts for getting started with NVIDIA's NeRF model. \
 This repo will not hold your hand through the process, it just makes the process much easier.
