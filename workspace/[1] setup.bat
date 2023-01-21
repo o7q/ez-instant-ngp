@@ -4,4 +4,5 @@ mkdir "dataset"
 mkdir "dataset/_images"
 mkdir "_images"
 echo.
+echo DONE!
 pause
