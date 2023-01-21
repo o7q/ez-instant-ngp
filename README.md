@@ -1,4 +1,4 @@
-<img src="assets/images/chloe.gif" style="width: 50%;">
+<img src="assets/images/chloe.gif">
 
 # ez-instant-ngp
 A pre-configured [instant-ngp](https://github.com/NVlabs/instant-ngp) workspace that includes helpful scripts for getting started with NVIDIA's NeRF model. \
