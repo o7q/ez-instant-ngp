@@ -1,6 +1,4 @@
-<img src="assets/images/chloe.gif">
-
-My dog, Chloe, in 3d.
+<img src="assets/images/chloe.gif"> My dog, Chloe, in 3d.
 
 # ez-instant-ngp
 A pre-configured [instant-ngp](https://github.com/NVlabs/instant-ngp) workspace that includes helpful scripts for getting started with NVIDIA's NeRF model. \
