@@ -9,10 +9,10 @@ This repo will not hold your hand through the process, it just makes the process
         ```
         pip install opencv-python
         ```
-    - Install [instant-ngp](https://github.com/NVlabs/instant-ngp/releases) and [colmap](https://github.com/colmap/colmap/releases) either manually or by using the pre-made installation scripts found in `install_scripts`
+    - Install [instant-ngp](https://github.com/NVlabs/instant-ngp/releases) and [colmap](https://github.com/colmap/colmap/releases) either manually or by using the pre-made installation scripts found in `./install_scripts`
     - Add the downloaded COLMAP folder to your path environment variables, for example: `C:\COLMAP-3.7-windows-cuda`
 - ### Training
-    - Put your video inside the `./training/workspace` folder and rename it to `input.mp4`
+    - Put your video inside the `./workspace` folder and rename it to `input.mp4`
     - Run each script in the order by number (feel free to modify any if needed) **or** run `run_all.bat` to automate the process (this will make it harder to debug)
     - If successful, you will be left with a new folder named `dataset`. It should contain two things, `transforms.json` and `_images`. If both are present then congrats! You successfully created a dataset for `instant-ngp`
     - Run `instant-ngp.exe` (which you installed earlier) and drag 'n drop your dataset
