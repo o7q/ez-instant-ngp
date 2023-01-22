@@ -8,7 +8,7 @@ title [2] vid2seqence
 ffmpeg -loglevel verbose -i input.mp4 -vf fps=1 _images/image%%d.png
 echo.
 title [3] sequence2colmap
-python colmap2nerf.py --colmap_matcher exhaustive --run_colmap --aabb_scale 16 --images _images
+python "colmap2nerf/colmap2nerf.py" --colmap_matcher exhaustive --run_colmap --aabb_scale 16 --images _images
 echo.
 title [4] finalize
 robocopy "_images" "dataset/_images" /e
