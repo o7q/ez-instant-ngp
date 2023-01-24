@@ -18,4 +18,4 @@ This repo will not hold your hand through the process, it just makes the process
     - Run each script in the order by number (feel free to modify any if needed) **or** run `run_all.bat` to automate the process (this will make it harder to debug)
     - If successful, you will be left with a new folder named `dataset`. It should contain two things, `transforms.json` and `_images`. If both are present then congrats! You successfully created a dataset for `instant-ngp`
     - Run `instant-ngp.exe` (which you installed earlier) and drag 'n drop your dataset
-    - I have also made some datasets in which you can try, you can download them [here](https://github.com/o7q/scrapyard/tree/main/_storage/ez-instant-ngp/dataset_examples)
+    - I have also made some datasets in which you can try, they are included inside of the `dataset_examples` folder
